@@ -1,6 +1,6 @@
 # vm-armory-edited
 ➤ Descripción:
-・Este script te permite poner una armeria externa al policejob. Esta traducida y configurada por mi, tambien cuenta con un npc inspirada a la policia nacional de españa.
+・Este script te permite poner una armeria externa al policejob. Esta traducida y configurada por mi, tambien cuenta con un npc inspirado en la Policia Nacional de España.
 
 ➤ Creditos: 
 ・Autor: xagraciar200 (xagraciar200_PR#7980)
