@@ -3,7 +3,7 @@
 ・Este script te permite poner una armeria externa al policejob. Esta traducida y configurada por mi, tambien cuenta con un npc inspirado en la Policia Nacional de España.
 
 ➤ Creditos: 
-・Autor: xagraciar200 (xagraciar200_PR#7980)
+・Autor: Xonax (Xonax#3492)
 
 ➤ Discord: 
 ・https://discord.gg/ghmYtdH443
